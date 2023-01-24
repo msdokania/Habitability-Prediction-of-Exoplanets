@@ -1,2 +1,2 @@
 # Habitability-Prediction-of-Exoplanets
-CSE5575 Statistical Machine Learning
+CSE575 Statistical Machine Learning
