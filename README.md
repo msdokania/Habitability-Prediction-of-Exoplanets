@@ -1,2 +1,2 @@
 # Habitability-Prediction-of-Exoplanets
-Statistical Machine Learning
+Statistical Machine Learning - refer to the Project Report pdf
